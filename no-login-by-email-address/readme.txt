@@ -3,7 +3,7 @@ Contributors: numeeja
 Donate link: https://cubecolour.co.uk/wp
 Tags: login, email, username
 Requires at least: 4.9
-Tested up to: 6.5
+Tested up to: 6.8
 Stable tag: 1.3.0
 License: GPLv2
 
